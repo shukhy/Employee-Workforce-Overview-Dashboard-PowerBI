@@ -50,9 +50,9 @@ Developed a comprehensive Power BI dashboard to provide:
 
 ### Workforce Overview Dashboard
 
-<img width="1284" height="716" alt="image" src="https://github.com/user-attachments/assets/6020e9f1-fdca-4996-bbfa-3ee8711acb8e" />
-<img width="1429" height="744" alt="image" src="https://github.com/user-attachments/assets/0020c6e0-bd29-4b14-99f9-95744cc587d6" />
-<img width="1447" height="756" alt="image" src="https://github.com/user-attachments/assets/7f1485a7-4334-4c97-9337-f5eb19386e8c" />
+<img width="1284" height="716" alt="image" src="https://github.com/user-attachments/assets/777d6f4e-49be-4f00-a0ae-1275c1f08e64" />
+<img width="1429" height="744" alt="image" src="https://github.com/user-attachments/assets/e10157e0-710d-43f1-83ca-81dbe641c79b" />
+<img width="1447" height="756" alt="image" src="https://github.com/user-attachments/assets/a39ada19-b495-469e-b77d-024df2fd2ca5" />
 
 
 ---
@@ -96,3 +96,109 @@ Monitored employee satisfaction across different levels:
 Business Value:
 
 Helps HR teams identify engagement patterns and improve employee experience initiatives.
+
+---
+
+## Recruitment & Hiring Trends
+
+Tracked workforce growth through:
+
+- New Hires by Year
+- Hiring Trends Over Time
+- Workforce Expansion Analysis
+
+Business Value:
+
+Supports strategic workforce planning and talent acquisition decisions.
+
+---
+
+## Salary & Compensation Analysis
+
+Examined employee compensation through:
+
+- Total Salary by Hire Month
+- Salary by Employment Type
+- Salary by Gender
+- Salary by Years at Company
+
+Business Value:
+
+Provides insights into compensation distribution and workforce investment.
+
+---
+
+## Retention & Attrition Analysis
+
+Monitored employee turnover through:
+
+- Monthly Terminations
+- Quarterly Terminations
+- Termination Rate Analysis
+
+Business Value:
+
+Helps identify retention challenges and supports workforce stability initiatives.
+
+---
+
+# 🔍 Key Insights
+
+- Workforce consists of **1,233 employees**
+- Total payroll expenditure exceeds **$8 million**
+- Employee satisfaction is strongest within the High and Very High categories
+- Bachelor's and Master's degree holders represent a significant portion of the workforce
+- Employee hiring increased significantly after 2010
+- Work-Life Balance is predominantly rated as Better and Good
+- Termination trends highlight periods requiring further retention analysis
+- Full-time employees account for the majority of salary expenditure
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Cleaning
+- Data Transformation
+- KPI Development
+- Interactive Dashboard Design
+
+---
+
+# 📈 Skills Demonstrated
+
+- HR Analytics
+- Workforce Analytics
+- Employee Retention Analysis
+- Compensation Analysis
+- Data Visualization
+- Business Intelligence
+- Dashboard Development
+- KPI Reporting
+- Data Storytelling
+- Trend Analysis
+
+---
+
+# 💡 Business Impact
+
+This dashboard enables HR leaders and management teams to:
+
+- Monitor workforce performance
+- Analyze employee satisfaction
+- Understand compensation patterns
+- Track hiring and termination trends
+- Improve workforce planning
+- Support retention strategies
+- Make informed HR decisions through data-driven insights
+
+---
+
+# ✅ Conclusion
+
+The Employee Workforce Overview Dashboard demonstrates how workforce data can be transformed into actionable business intelligence. By integrating employee demographics, compensation metrics, satisfaction scores, hiring trends, and retention indicators into a single platform, organizations can gain a holistic understanding of their workforce and make more informed strategic decisions.
+
+---
